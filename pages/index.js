@@ -126,8 +126,7 @@ export default function PaginaInicial() {
               <Image
                 styleSheet={{
                   borderRadius: '50%',
-                  marginBottom: '16px',
-                  display: {desabilitaImg}
+                  marginBottom: '16px'
                 }}
                 src={`https://github.com/${username}.png`}
               />
